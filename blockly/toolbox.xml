@@ -1,4 +1,4 @@
-<category id="catJSONP" tags="fly,mark1,smart">
+<category id="catJSONP">
     <block type="variables_set">
         <field name="VAR">jsonp</field>
         <value name="VALUE">
